@@ -1,0 +1,6 @@
+#transaction {
+    display: block;
+    width: 100%;
+    /* Define um scroll lateral */
+    overflow: auto;
+}
